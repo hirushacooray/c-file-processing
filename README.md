@@ -3,8 +3,8 @@ C File Processing
 
 Basic C Program.
 
-Features.
+<strong>Features.</strong>
 
-Write data to a file
-Search data from a file.
-Select data from a file.
+<li>Write data to a file.</li>
+<li>Search data from a file.</li>
+<li>Select data from a file.</li>
